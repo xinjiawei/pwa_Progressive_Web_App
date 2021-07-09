@@ -1,0 +1,15 @@
+{
+  "background_color": "white",
+  "description": "如意云导航",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "icon/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "如意云导航",
+  "short_name": "如意云",
+  "start_url": "/"
+}
